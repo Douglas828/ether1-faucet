@@ -1,1 +1,1 @@
-exec('Faucet.js');
+$wallet = fopen("wallet_send.txt", "w")
